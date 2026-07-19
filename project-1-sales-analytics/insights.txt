@@ -1,0 +1,31 @@
+=== KEY INSIGHTS FROM SALES ANALYSIS ===
+
+1. TOTAL REVENUE: $18,698,681.26
+2. TOTAL PROFIT: $4,675,003.51
+3. PROFIT MARGIN: 25.00%
+4. TOTAL ORDERS: 5,000
+5. AVERAGE ORDER VALUE: $3762.31
+
+TOP REGION BY REVENUE:
+Region
+North America           6.836134e+06
+Europe                  5.280707e+06
+Asia Pacific            3.724422e+06
+Latin America           1.865732e+06
+Middle East & Africa    9.916859e+05
+
+TOP 5 PRODUCTS BY REVENUE:
+Product
+Graphics Card RTX    1.441416e+06
+Monitor 27"          1.357981e+06
+SSD 1TB              1.320584e+06
+RAM 32GB             1.308290e+06
+Headset Pro          1.273336e+06
+
+TOP SALES REP:
+SalesRep
+Carol White     3.841462e+06
+Emma Brown      3.841282e+06
+Alice Chen      3.691975e+06
+Bob Martinez    3.669262e+06
+David Kim       3.654700e+06

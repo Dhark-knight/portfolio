@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,ShelfLifeDays,StorageTemp,UnitCost
+PRD-0001,Raw Milk Grade A,Chocolate,356,4-8°C,371.84
+PRD-0002,Raw Milk Grade B,Yogurt & Fermented,67,Room Temp,282.93
+PRD-0003,Pasteurized Milk,Chocolate,328,2-4°C,208.42
+PRD-0004,UHT Milk,Powdered Milk,261,Frozen,334.75
+PRD-0005,Skimmed Milk,By-Products,330,Frozen,442.9
+PRD-0006,Whole Milk Powder,Chocolate,307,4-8°C,125.55
+PRD-0007,Skimmed Milk Powder,Butter & Cream,314,Frozen,494.37
+PRD-0008,Butter Salted,Yogurt & Fermented,142,4-8°C,207.24
+PRD-0009,Butter Unsalted,Cheese,95,2-4°C,421.79
+PRD-0010,Cream Heavy,Yogurt & Fermented,148,Room Temp,79.46
+PRD-0011,Cream Light,Powdered Milk,326,Frozen,52.41
+PRD-0012,Yogurt Natural,By-Products,347,4-8°C,449.13
+PRD-0013,Yogurt Flavored,Liquid Milk,126,4-8°C,460.09
+PRD-0014,Cheese Cheddar,By-Products,257,Room Temp,139.73
+PRD-0015,Cheese Mozzarella,Liquid Milk,65,4-8°C,62.4
+PRD-0016,Cheese Cream,By-Products,84,Room Temp,417.8
+PRD-0017,Whey Powder,Chocolate,15,Room Temp,158.82
+PRD-0018,Casein,Chocolate,213,Room Temp,75.24
+PRD-0019,Lactose,Yogurt & Fermented,72,4-8°C,80.4
+PRD-0020,Ice Cream Mix,Liquid Milk,229,4-8°C,263.24
+PRD-0021,Flavored Milk,Powdered Milk,205,Frozen,279.24
+PRD-0022,Probiotic Drink,By-Products,47,Room Temp,237.56
+PRD-0023,Kefir,Powdered Milk,83,Frozen,165.13
+PRD-0024,Buttermilk,Liquid Milk,160,Room Temp,221.68
+PRD-0025,Condensed Milk,Yogurt & Fermented,130,Room Temp,413.32
+PRD-0026,Evaporated Milk,By-Products,142,Frozen,414.97
+PRD-0027,Milk Chocolate,Powdered Milk,276,4-8°C,358.78
+PRD-0028,White Chocolate,Yogurt & Fermented,258,4-8°C,496.68
+PRD-0029,Cocoa Butter,Cheese,264,Room Temp,232.33
+PRD-0030,Cocoa Powder,Chocolate,254,Frozen,135.58

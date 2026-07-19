@@ -1,0 +1,26 @@
+SupplierID,SupplierName,Location,Rating,ContractType
+SUP-001,Supplier_1,Port Harcourt,B,Short-term
+SUP-002,Supplier_2,Port Harcourt,B,Trial
+SUP-003,Supplier_3,Benin City,A,Long-term
+SUP-004,Supplier_4,Abuja,B,Long-term
+SUP-005,Supplier_5,Kano,B,Long-term
+SUP-006,Supplier_6,Calabar,A,Long-term
+SUP-007,Supplier_7,Benin City,B,Short-term
+SUP-008,Supplier_8,Abuja,B,Long-term
+SUP-009,Supplier_9,Lagos,A,Short-term
+SUP-010,Supplier_10,Abuja,A,Long-term
+SUP-011,Supplier_11,Calabar,C,Long-term
+SUP-012,Supplier_12,Lagos,B,Long-term
+SUP-013,Supplier_13,Lagos,B,Long-term
+SUP-014,Supplier_14,Calabar,A,Short-term
+SUP-015,Supplier_15,Kano,A,Trial
+SUP-016,Supplier_16,Ibadan,A,Long-term
+SUP-017,Supplier_17,Lagos,A,Long-term
+SUP-018,Supplier_18,Lagos,C,Long-term
+SUP-019,Supplier_19,Ibadan,B,Short-term
+SUP-020,Supplier_20,Abuja,B,Long-term
+SUP-021,Supplier_21,Kaduna,B,Short-term
+SUP-022,Supplier_22,Kano,B,Long-term
+SUP-023,Supplier_23,Port Harcourt,B,Long-term
+SUP-024,Supplier_24,Ibadan,A,Trial
+SUP-025,Supplier_25,Kaduna,B,Long-term
