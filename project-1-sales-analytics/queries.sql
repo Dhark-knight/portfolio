@@ -1,8 +1,7 @@
--- ============================================================
+
 -- PROJECT 1: SALES ANALYTICS - SQL QUERIES
--- Author: Clinton Emengini
--- Tools: SQL (MySQL/PostgreSQL compatible)
--- ============================================================
+
+
 
 -- 1. TOTAL SALES BY REGION
 SELECT 
